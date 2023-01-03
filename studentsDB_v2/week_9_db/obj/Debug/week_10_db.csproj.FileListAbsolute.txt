@@ -1,0 +1,11 @@
+C:\Users\ibrah\source\repos\studentsDB_v2\week_9_db\bin\Debug\week_9_db.exe.config
+C:\Users\ibrah\source\repos\studentsDB_v2\week_9_db\bin\Debug\week_9_db.exe
+C:\Users\ibrah\source\repos\studentsDB_v2\week_9_db\bin\Debug\week_9_db.pdb
+C:\Users\ibrah\source\repos\studentsDB_v2\week_9_db\obj\Debug\week_10_db.csproj.AssemblyReference.cache
+C:\Users\ibrah\source\repos\studentsDB_v2\week_9_db\obj\Debug\week_10_db.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\source\repos\studentsDB_v2\week_9_db\obj\Debug\week_9_db.frmIndex.resources
+C:\Users\ibrah\source\repos\studentsDB_v2\week_9_db\obj\Debug\week_9_db.Properties.Resources.resources
+C:\Users\ibrah\source\repos\studentsDB_v2\week_9_db\obj\Debug\week_10_db.csproj.GenerateResource.cache
+C:\Users\ibrah\source\repos\studentsDB_v2\week_9_db\obj\Debug\week_10_db.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\studentsDB_v2\week_9_db\obj\Debug\week_9_db.exe
+C:\Users\ibrah\source\repos\studentsDB_v2\week_9_db\obj\Debug\week_9_db.pdb
